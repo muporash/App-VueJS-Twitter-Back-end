@@ -1,6 +1,6 @@
 let cb                = new Codebird;
-let consumerKey       = '2Gxy9OXWQP9I1uYL3miRQ';
-let consumerSecret    = '6T91pEpU19Nq5ChqXnaP1CFjYebNQhcFvAc5Y2FG4';
+let consumerKey       = '';
+let consumerSecret    = '';
 cb.setConsumerKey(consumerKey, consumerSecret);
 
 import Vue from 'vue'
